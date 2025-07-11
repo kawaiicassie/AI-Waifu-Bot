@@ -31,6 +31,7 @@ Trước khi có thể chạy code, bạn cần phải tạo một "ứng dụng
     -   Nhấn **"Add Bot"** -> **"Yes, do it!"**.
     -   Bên dưới tên bot, nhấn **"Reset Token"** và sao chép lại token này. 
 > **⚠️ TUYỆT ĐỐI không chia sẻ token này cho bất kỳ ai!**
+
     -   Kéo xuống dưới và bật (enable) cả 3 mục trong phần **Privileged Gateway Intents**:
         -   `PRESENCE INTENT`
         -   `SERVER MEMBERS INTENT`
@@ -123,8 +124,8 @@ Nếu bạn muốn host bot trên VPS hoặc một môi trường ổn định h
 
 ## 💜 Lời kết
 
-Nếu bạn thấy dự án này thú vị và hữu ích, đừng ngần ngại cho mình một ⭐ trên GitHub nhé! iu bạn nhiều lắm! (´｡• ᵕ •｡`)♡
+Nếu bạn thấy dự án này thú vị và hữu ích, đừng ngần ngại cho mình một ⭐ trên GitHub nha! (´｡• ᵕ •｡`)♡
 
-Và nếu bạn có ý tưởng gì hay ho để cải thiện Waifu, hãy **Fork** repo và tạo một Pull Request nhé. Mọi sự đóng góp đều đáng quý!
+Và nếu bạn có ý tưởng gì hay ho để cải thiện bé Waifu, hãy **Fork** repo và tạo một Pull Request nhé. Mọi sự đóng góp đều đáng quý!
 
 Cảm ơn bạn đã ghé thăm! (ﾉ´ヮ´)ﾉ*:･ﾟ✧
