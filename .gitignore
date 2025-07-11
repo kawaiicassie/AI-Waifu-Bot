@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv
+venv
+ENV
+env
+
+# dotenv environment variables file
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
