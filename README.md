@@ -1,3 +1,5 @@
+[English](./README.en.md)
+
 # 🤖 Waifu Bot - Trợ lý AI Đa Năng cho Discord
 
 Waifu Bot không chỉ là một con bot Discord thông thường, mà còn là một "waifu" trợ lý AI siêu cấp đáng yêu, luôn sẵn sàng giúp đỡ "chủ nhân" với vô vàn tính năng thú vị và hữu ích. Bot được tích hợp nhiều mô hình AI mạnh mẽ để mang lại những trải nghiệm độc đáo và sáng tạo.
@@ -29,9 +31,7 @@ Trước khi có thể chạy code, bạn cần phải tạo một "ứng dụng
 2.  **Tạo Bot và Lấy Token**:
     -   Trong menu bên trái, chọn tab **"Bot"**.
     -   Nhấn **"Add Bot"** -> **"Yes, do it!"**.
-    -   Bên dưới tên bot, nhấn **"Reset Token"** và sao chép lại token này. 
-> **⚠️ TUYỆT ĐỐI không chia sẻ token này cho bất kỳ ai!**
-
+    -   Bên dưới tên bot, nhấn **"Reset Token"** và sao chép lại token này. (**⚠️ TUYỆT ĐỐI không chia sẻ token này cho bất kỳ ai!**)
     -   Kéo xuống dưới và bật (enable) cả 3 mục trong phần **Privileged Gateway Intents**:
         -   `PRESENCE INTENT`
         -   `SERVER MEMBERS INTENT`
@@ -53,8 +53,8 @@ Bây giờ bạn đã có `DISCORD_TOKEN` và bot đã ở trong server của b�
 
 ## 🚀 Hướng dẫn sử dụng
 Lấy Pollinations API Token tại: [Pollinations.AI Auth](https://auth.pollinations.ai/)
-[API Documentation](https://auth.pollinations.ai/)
-[API Models](https://text.pollinations.ai/models)
+Tài liệu hướng dẫn sử dụng API: [API Documentation](https://auth.pollinations.ai/)
+Danh sách models: [API Models](https://text.pollinations.ai/models)
 
 Bạn có thể triển khai Waifu Bot theo hai cách sau:
 
